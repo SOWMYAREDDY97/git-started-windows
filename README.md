@@ -25,8 +25,8 @@ Repositories may also be private - visible only to yourself or to a team.
 
 There are many places to store your content while you collaborate. We will set up accounts with two very popular providers.
 
-- [GiHub](https://github.com/)
-- [BitBucket](https://bitbucket.org)
+1 [GiHub](https://github.com/)
+2 [BitBucket](https://bitbucket.org)
 
 Both are widely used and it can be helpful to have accounts in both places. As you create new repositories for yourself or a team, you can decide which one is a better choice for each project.
 
