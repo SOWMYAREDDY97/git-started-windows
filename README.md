@@ -7,9 +7,9 @@
 
 ## Prerequisites
 
-1 [Windows Setup for Developers](https://github.com/denisecase/windows-setup)
-2 [Windows File Management](https://github.com/denisecase/windows-file-management)
-3 [Get Setup With Chocolatey](https://github.com/denisecase/get-setup-with-chocolatey)
+- [Windows Setup for Developers](https://github.com/denisecase/windows-setup)
+- [Windows File Management](https://github.com/denisecase/windows-file-management)
+- [Get Setup With Chocolatey](https://github.com/denisecase/get-setup-with-chocolatey)
 
 ## Git
 
@@ -25,8 +25,8 @@ Repositories may also be private - visible only to yourself or to a team.
 
 There are many places to store your content while you collaborate. We will set up accounts with two very popular providers.
 
-1 [GiHub](https://github.com/)
-2 [BitBucket](https://bitbucket.org)
+- [GiHub](https://github.com/)
+- [BitBucket](https://bitbucket.org)
 
 Both are widely used and it can be helpful to have accounts in both places. As you create new repositories for yourself or a team, you can decide which one is a better choice for each project.
 
