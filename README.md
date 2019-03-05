@@ -7,9 +7,9 @@
 
 ## Prerequisites
 
-- [Windows Setup for Developers](https://github.com/denisecase/windows-setup)
-- [Windows File Management](https://github.com/denisecase/windows-file-management)
-- [Get Setup With Chocolatey](https://github.com/denisecase/get-setup-with-chocolatey)
+1 [Windows Setup for Developers](https://github.com/denisecase/windows-setup)
+2 [Windows File Management](https://github.com/denisecase/windows-file-management)
+3 [Get Setup With Chocolatey](https://github.com/denisecase/get-setup-with-chocolatey)
 
 ## Git
 
